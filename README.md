@@ -6,7 +6,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
-[](./images-README.md/3c71cc99d2fc1c12a3d3.jpg)
+![](./images-README.md/3c71cc99d2fc1c12a3d3.jpg)
 
 This webpage has been designed by Nicolas Philippot, UI/UX designer. You can find final screens here
 
@@ -94,7 +94,7 @@ CSS:
 
 Final result:
 
-[](./images-README.md/044058b378bfef994b7c9dd672de1dca33d5f576.gif)
+![](./images-README.md/044058b378bfef994b7c9dd672de1dca33d5f576.gif)
 
 ### 2. Homepage - popular tutorials
 
@@ -110,7 +110,7 @@ Replace static video cards by dynamic loading:
 
 Final result:
 
-[](./images-README.md/0efb5ff68c622f830a70e7aaf16bac87822462af.gif)
+![](./images-README.md/0efb5ff68c622f830a70e7aaf16bac87822462af.gif)
 
 ### 3. Homepage - latest videos
 
@@ -126,7 +126,7 @@ Replace static video card by dynamic loading:
 
 Final result:
 
-[](./images-README.md/c9a421edef604cee434f02f26328f6a549abd81a.gif)
+![](./images-README.md/c9a421edef604cee434f02f26328f6a549abd81a.gif)
 
 ### 4. Pricing - quotes
 
@@ -164,7 +164,7 @@ Replace static video card by dynamic loading:
     - A new Topic is selected
     - A new Sort by is selected
 
-[](./images-README.md/b081f3358ab5e79f44afc847d882bcf6fd5ef517.gif)
+![](./images-README.md/b081f3358ab5e79f44afc847d882bcf6fd5ef517.gif)
 
 ### 6. JSON to XML
 
