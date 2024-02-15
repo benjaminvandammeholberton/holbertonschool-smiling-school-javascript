@@ -8,7 +8,7 @@ Here the final result:
 
 ![](./images-README.md/3c71cc99d2fc1c12a3d3.jpg)
 
-This webpage has been designed by Nicolas Philippot, UI/UX designer. You can find final screens here
+This webpage has been designed by Nicolas Philippot, UI/UX designer.
 
 ## Requirements
 
