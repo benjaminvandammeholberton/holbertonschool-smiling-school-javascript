@@ -94,7 +94,7 @@ CSS:
 
 Final result:
 
-![](./images-README.md/044058b378bfef994b7c9dd672de1dca33d5f576.gif)
+![](/images-README.md/044058b378bfef994b7c9dd672de1dca33d5f576.gif)
 
 ### 2. Homepage - popular tutorials
 
